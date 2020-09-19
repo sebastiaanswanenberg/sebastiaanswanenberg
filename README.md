@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, my name is Sebastiaan! 👋
 
-<!--
-**sebastiaanswanenberg/sebastiaanswanenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student! 🤓
+ I'm currently studying Software Development at the Avans Hogeschool in S'Hertogenbosch (The Netherlands). 
+<br>
+In my spare time I like to 👨‍💻 tinker around with:
+- 3D Printers
+- Linux server hosting
+- IoT
+- DevOps
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### Connect with me:
+[<img align="left" alt="sebastiaanswanenberg.nl | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
+[<img align="left" alt="sebastiaanswanenberg | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/linkedin.svg"  />][linkedin]
+
+<br />
+<br />
+
+---
+
+<img align="left" alt="tjeufoolen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sebastiaanswanenberg&show_icons=true&hide_border=true">
+
+[website]: https://sebastiaanswanenberg.nl/
+[linkedin]: https://www.linkedin.com/
