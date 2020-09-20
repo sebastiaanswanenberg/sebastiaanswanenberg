@@ -13,7 +13,7 @@ In my spare time I like to 👨‍💻 tinker around with:
 <br>
 
 ### Connect with me:
-[<img align="left" alt="sebastiaanswanenberg.nl | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
+[<img align="left" alt="staeble.it | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
 [<img align="left" alt="sebastiaanswanenberg | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/linkedin.svg"  />][linkedin]
 
 <br />
@@ -21,7 +21,8 @@ In my spare time I like to 👨‍💻 tinker around with:
 
 ---
 
-<img align="left" alt="tjeufoolen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sebastiaanswanenberg&show_icons=true&hide_border=true">
+<img align="left" alt="sebastiaan swanenberg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sebastiaanswanenberg&show_icons=true&hide_border=true">
 
 [website]: https://sebastiaanswanenberg.nl/
 [linkedin]: https://www.linkedin.com/
+[company]: https://www.staeble.it/
