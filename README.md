@@ -23,6 +23,5 @@ In my spare time I like to 👨‍💻 tinker around with:
 
 <img align="left" alt="sebastiaan swanenberg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sebastiaanswanenberg&show_icons=true&hide_border=true">
 
-[website]: https://sebastiaanswanenberg.nl/
 [linkedin]: https://www.linkedin.com/
 [company]: https://www.staeble.it/
